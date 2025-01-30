@@ -1,5 +1,5 @@
 # HR ATTRITION DASHBOARD
-
+https://1drv.ms/x/c/30daa2c0267ee8d1/EdHofibAotoggDAcAQAAAAABmZ7RAjsdb2ShGmAVHL37jw?e=ssQUFF
 ## Project Overview
 - Total Employees: 2,925
 - Active Employees: 2,452 (84%)
