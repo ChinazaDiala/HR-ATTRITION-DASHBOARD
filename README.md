@@ -5,10 +5,20 @@
 - Active Employees: 2,452 (84%)
 - Attrition Rate: 16% (473 employees)
 - Average Employee Age: 37 years
+ ![Screenshot (2)](https://github.com/user-attachments/assets/ebd86391-a6d1-4263-a758-27a2d63c160f)
 
-- 
+ ### Tools
+ - Excel (for cleaning data)
+ - Excel for (visualizing)
 
-Key Insights:
+   ### Data cleaning/preparation
+   1. Data loading and inspection
+   2. Handling missing values
+   3. Data cleaning and formatting
+  
+  Based on the HR dashboard image, here are some key insights and recommendation
+
+### Key Insights:
 1. Job Roles:
 - Laboratory Technicians (150) and Sales Executives (113) have the highest attrition
 - Research Directors (5) show lowest attrition
@@ -21,7 +31,7 @@ Key Insights:
 - Bachelor's degree holders show highest attrition
 - Employees who travel rarely (325) have higher attrition than frequent travelers (141)
 
-Recommendations:
+### Recommendations:
 
 1. Retention Strategies:
 - Develop targeted retention programs for Laboratory Technicians and Sales Executives
